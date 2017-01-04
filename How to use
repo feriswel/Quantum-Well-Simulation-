@@ -1,0 +1,4 @@
+How to use:
+1. Change the parameters in the sample input file to your design. 
+2. Simply run the built exe file in cmd with the input file as parameter:
+   qw_tmmm_TE.exe input7.txt
